@@ -2,6 +2,7 @@
 
 ### Install Guide:
 Flash rom from zip archive.
+Reboot once after First setting done
 
 
 ### Rom features
