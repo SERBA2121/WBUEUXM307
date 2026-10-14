@@ -1,6 +1,6 @@
 # WBUEUXM307
 
-## BlindROM - I don't have Apollo and the rum is blind assembled
+## BlindROM - I don't have Apollo and the rоm is blind assembled
 
 ### Install Guide:
 
