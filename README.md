@@ -1,8 +1,16 @@
 # WBUEUXM307
 
 ### Install Guide:
-Flash rom from zip archive.
-Reboot once after First setting done
+
+- Wipe dalvik, cache, metadata,
+- Flash ROM.zip,
+- Wipe dalvik, cache, metadata,
+- Format data,
+- Reboot in fastboot,
+- Execute fastboot erase frp,
+- Execute fastboot -w,
+- Reboot,
+- Restart your device after completing the initial setup,
 
 
 ### Rom features
@@ -13,11 +21,11 @@ Reboot once after First setting done
 - Circle to search
 - Google phone
 - Kigurumi WP
-- Apatch ROOT
-- 90hz added
-
+  
 ### Bugs
 - Play integrity
+- Dolby is sus
+- Other apollo Bugs
 - Screen recorder (use good GP alternative - ADV)
 - Aod (removed)
 - Other bugs
