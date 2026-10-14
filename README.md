@@ -1,5 +1,7 @@
 # WBUEUXM307
 
+## BlindROM - I don't have Apollo and the rum is blind assembled
+
 ### Install Guide:
 
 - Wipe dalvik, cache, metadata,
